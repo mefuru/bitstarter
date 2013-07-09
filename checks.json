@@ -3,7 +3,7 @@
  ".logo",
  ".blank",
  ".about",
- ".heading,"
+ ".heading",
  ".subheading",
  ".pitch",
  ".video",
@@ -13,4 +13,5 @@
  ".section1",
  ".section2",
  ".faq",
- ".footer" ]
+ ".footer"
+]
